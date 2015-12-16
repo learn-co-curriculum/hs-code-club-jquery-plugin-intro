@@ -6,11 +6,11 @@ Now that you're a boss at jQuery, it's time to dive into jQuery plugins. A Plugi
 
 ##Some Things You Should Know
 
-You're going to be tackling the lesson `jQuery Plugin Play`. If you finish that and still want more, take a stab at the `#` lab. 
+You're going to be tackling the lesson `jQuery Plugin Play`. If you finish that and still want more, take a stab at the `jQuery Funny Text` lab. 
 
 ## Share Share Share!
 
-We love to see your progress! When you finish `jQuery Decorator`, screenshot your stylish new living room or code and share with **\#flatironcodeclub** and **\#jqueryPluginPLay**.
+We love to see your progress! When you finish `jQuery Decorator`, screenshot your stylish new living room or code and share with **\#flatironcodeclub** and **\#jqueryPluginPlay**.
 
 ## Tech News
 
