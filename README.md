@@ -12,4 +12,4 @@ You're going to be tackling the lesson `jQuery Plugin Play`. If you finish that 
 
 We love to see your progress! When you finish `jQuery Decorator`, screenshot your stylish new living room or code and share with **\#flatironcodeclub** and **\#jqueryPluginPlay**.
 
-<a href='https://learn.co/lessons/hs-code-club-jquery-plugin-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-code-club-jquery-plugin-intro' title='Let's Get Coding!'>Let's Get Coding!</a> on Learn.co and start learning to code for free.</p>
